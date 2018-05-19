@@ -13,8 +13,5 @@ A hands on brief introduction about Deep Learning
 - 01 Whats is Deep Learning?
 - 02 Running Jupyter Notebook on an EC2 GPU Instance
 - 03 Mathematical building blocks of neural networks (tensors and SGD)
-- 04 Core components of neural networks
-- 05 Fundamentals of machine learning
-
 
 
