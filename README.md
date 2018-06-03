@@ -15,6 +15,7 @@ A hands on brief introduction about Deep Learning
 - 03 Mathematical building blocks of neural networks (tensors and SGD)
 - 04 Core components of neural networks
 - 05 Fundamentals of machine learning
+- 06 Introduction to Kaggle - Binary Classification in Titanic's Competition
 
 
 
